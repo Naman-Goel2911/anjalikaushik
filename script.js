@@ -4,7 +4,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     const typewriterElement = document.getElementById('typewriter');
-    const text = "Are you happy?";
+    const text = "How are you feeling?";
     let i = 0;
 
     function typeWriter() {
